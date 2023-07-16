@@ -1,0 +1,1 @@
+# Oracle19c_DB_setup_locally
